@@ -1,8 +1,8 @@
 {
   "name": "node-ts-be",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "mannguyen",
+  "main": "index.ts",
+  "author": "man.nguyen",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
